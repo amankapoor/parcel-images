@@ -1,0 +1,29 @@
+{
+  "name": "parcel-images",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amankapoor/parcel-images.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amankapoor/parcel-images/issues"
+  },
+  "homepage": "https://github.com/amankapoor/parcel-images#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.9.7",
+    "parcel-plugin-imagemin": "^1.1.2"
+  },
+  "dependencies": {
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2"
+  }
+}
